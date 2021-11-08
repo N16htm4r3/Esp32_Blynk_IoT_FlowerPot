@@ -14,7 +14,7 @@
 6. 5v-Water Pump (Low Rpm)
 
 The circuit diagram is attached.
-<img width="600" alt="Circuit Diagram" src="https://user-images.githubusercontent.com/45715192/140814205-afe34688-b134-43a4-8893-999417e7fa05.png">
+<img width="1200" alt="Circuit Diagram" src="https://user-images.githubusercontent.com/45715192/140814205-afe34688-b134-43a4-8893-999417e7fa05.png">
 
 
 
