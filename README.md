@@ -14,8 +14,10 @@
 6. 5v-Water Pump (Low Rpm)
 
 
+
 # Purpule-Box
-<a href="https://usaupload.com/5hLd/Purpul-Box_logo-transparentpng.png" target="_blank" title="Download from USAupload | Upload Files for free"><img src="https://cloud-ex42.usaupload.com/cache/plugins/filepreviewer/259915/ef092817a9083a924086c910aa400813711acd79d7a643a8955bb1b097d58c29/280x280_middle.jpg"/></a>
+![Purpul-Box logo-transparentpng](https://user-images.githubusercontent.com/45715192/140811588-fd44331b-ed00-4cbc-9ee5-09887fb39540.jpg)
+
 
 Tiyn Links
 
