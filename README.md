@@ -18,7 +18,7 @@
 # Purpule-Box
 
 
-<img src=https://user-images.githubusercontent.com/45715192/140811588-fd44331b-ed00-4cbc-9ee5-09887fb39540.jpg width="70">
+<img src=https://user-images.githubusercontent.com/45715192/140811588-fd44331b-ed00-4cbc-9ee5-09887fb39540.jpg width="80">
 
 
 Tiyn Links
