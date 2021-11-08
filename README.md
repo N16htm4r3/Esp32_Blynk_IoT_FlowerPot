@@ -10,7 +10,7 @@
 2. Soil Moisture Sensor
 3. LDR 3 pin
 4. Relay Module 5v
-5. DHT-22`
+5. DHT-22
 6. 5v-Water Pump (Low Rpm)
 
 The circuit diagram is attached.
