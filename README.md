@@ -15,7 +15,7 @@
 
 
 # Purpule-Box
-[url=https://usaupload.com/5hLd/Purpul-Box_logo-transparentpng.png][img]https://cloud-ex42.usaupload.com/cache/plugins/filepreviewer/259915/ef092817a9083a924086c910aa400813711acd79d7a643a8955bb1b097d58c29/280x280_middle.jpg[/img][/url]
+<a href="https://usaupload.com/5hLd/Purpul-Box_logo-transparentpng.png" target="_blank" title="Download from USAupload | Upload Files for free"><img src="https://cloud-ex42.usaupload.com/cache/plugins/filepreviewer/259915/ef092817a9083a924086c910aa400813711acd79d7a643a8955bb1b097d58c29/280x280_middle.jpg"/></a>
 
 Tiyn Links
 
